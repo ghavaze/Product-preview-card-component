@@ -42,9 +42,9 @@ body {
   color: hsl(228, 12%, 48%);
 }
 .card .card-info .card-heading {
-  padding-bottom: 1.6rem;
+  padding-bottom: 1.8rem;
   font-family: "Fraunces", serif;
-  font-size: 3rem;
+  font-size: 3.2rem;
 }
 .card .card-info .card-description {
   padding-bottom: 2rem;
